@@ -81,6 +81,7 @@ Passionate about **solving complex problems** through **machine learning algorit
 
 ## 📜 Certifications & Licenses
 
+- [Data Engineering Essentials using SQL, Python, and PySpark](http://ude.my/UC-726ce6f7-aabb-4a8e-9b7b-6743a94259f4)  | *Udemy* | *2025*
 - [Azure Devops Crash Course -Build CI/CD release pipelines](https://www.udemy.com/certificate/UC-0f38e865-9b72-4183-908c-ed3465d3675d/)  | *Udemy* | *2025*
 - [Build a Data Warehouse with BigQuery](https://www.cloudskillsboost.google/public_profiles/5c86e351-b1b7-494b-908c-3cc820a441ad/badges/13624844)  | *Google Cloud Skills Boost* | *2025*  
 - [Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/public_profiles/5c86e351-b1b7-494b-908c-3cc820a441ad/badges/13624844)  | *Google Cloud Skills Boost* | *2025*
