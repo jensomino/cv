@@ -1,5 +1,7 @@
 # Mostafa Talebi
 
+<img src="https://raw.githubusercontent.com/jensomino/cv/main/pic.png" alt="Mostafa Talebi" width="150" align="right">
+
 📍 **Location**: Gandia, Valencia, Spain  
 📞 **Phone**: +34 – 614144020  
 📧 **Email**: [talebi@live.com](mailto:talebi@live.com)  
