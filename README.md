@@ -81,15 +81,31 @@ Passionate about **solving complex problems** through **machine learning algorit
 
 ## 📜 Certifications & Licenses
 
-- **Data Engineering Skills such as SQL, Python, Apache Spark** | *Udemy* | *2025*  
-- **AI Enabled Business Intelligence Certification** | *MicroStrategy* | *2025*  
-- **Azure DevOps Crash Course - Build CI/CD release pipelines** | *Udemy* | *2025*  
-- **Engineer Data for Predictive Modeling with BigQuery ML** | *Google Cloud Skills Boost* | *2025*  
-- **MicroStrategy Architect** | *Udemy* | *2025*  
-- **Data Analyst Career Track** | *365 Data Science* | *2024*  
-- **Machine Learning in Python** | *365 Data Science* | *2024*  
-- **DevOps Administration Pack** | *SEMAtec IT Training Center* | *2023*  
-- **CS50x: Introduction to Computer Science** | *Harvard University* | *2021*  
+- [Azure Devops Crash Course -Build CI/CD release pipelines](https://www.udemy.com/certificate/UC-0f38e865-9b72-4183-908c-ed3465d3675d/)  | *Udemy* | *2025*
+- [Build a Data Warehouse with BigQuery](https://www.cloudskillsboost.google/public_profiles/5c86e351-b1b7-494b-908c-3cc820a441ad/badges/13624844)  | *Google Cloud Skills Boost* | *2025*  
+- [Derive Insights from BigQuery Data](https://www.cloudskillsboost.google/public_profiles/5c86e351-b1b7-494b-908c-3cc820a441ad/badges/13624844)  | *Google Cloud Skills Boost* | *2025*
+- [Engineer Data for Predictive Modeling with BigQuery ML](https://www.credly.com/badges/aad47412-bc78-4923-a4e9-95c326cf6334/linked_in_profile)  | *Google Cloud Skills Boost* | *2025*
+- [Manage Kubernetes in Google Cloud](https://www.credly.com/badges/a91c3a81-17f0-452f-b33e-c647b3de19f9/linked_in_profile)  | *Google Cloud Skills Boost* | *2025*
+- [MicroStrategy Architect](https://www.udemy.com/certificate/UC-58383107-794e-4c64-9e26-c0cb408316b7/)  | *Udemy* | *2025*
+- [Prepare Data for ML APIs on Google Cloud](https://www.credly.com/badges/5c16063d-271b-4fa1-bf12-0d7eeaa5ae96/linked_in_profile)  | *Google Cloud Skills Boost* | *2025*
+- [Build a Website on Google Cloud](https://www.credly.com/badges/896abdfc-0d4a-4843-94b2-8b10901b6afa/linked_in_profile)  | *Google Cloud Skills Boost* | *2025*
+- [Implement CI/CD Pipelines on Google Cloud](https://www.credly.com/badges/b443e52d-edf6-4a80-8172-ae256ced5e79/linked_in_profile)  | *Google Cloud Skills Boost* | *2025*
+- [Intermediate Python Programming](https://learn.365datascience.com/c/273f69f7cd)  | *365 Data Science* | *2024*
+- [The Basics of Google Cloud Compute](https://www.credly.com/badges/601452ee-c9d1-459e-bdc4-704882723bca/linked_in_profile) | *Google Cloud Skills Boost* | *2024*
+- [The Machine Learning Process A-Z](https://learn.365datascience.com/c/273aa32aab)  | *365 Data Science* | *2024*
+- [Advanced SQL](https://learn.365datascience.com/c/cb0b221210)  | *365 Data Science* | *2024*
+- [Business Analyst Career Track](https://learn.365datascience.com/c/6c09642a3b)  | *365 Data Science* | *2024*
+- [Data Analyst Career Track](https://learn.365datascience.com/c/1dc20fd49a/)  | *365 Data Science* | *2024*
+- [Data Scientist Career Track](https://learn.365datascience.com/c/22f39a3a5b)  | *365 Data Science* | *2024*
+- [Power BI](https://learn.365datascience.com/c/58ff5a6759)  | *365 Data Science* | *2024*
+- [SQL + Tableau + Python](https://learn.365datascience.com/c/b0494f1f69)  | *365 Data Science* | *2024*
+- [Python Programmer Bootcamp](https://learn.365datascience.com/c/cb026ed6b9)  | *365 Data Science* | *2024*
+- DevOps Administration Pack | *SEMAtec IT Training Center* | *2023*
+- [CS50x: Introduction to Computer Science](https://cs50.harvard.edu/certificates/47a8bf5b-8ac6-406b-9725-a99ef0d2404c)  | *Harvard University* | *2021* 
+- Information Security Management System (ISMS) Foundation Training | *TÜV NORD CERT* | *2015*  
+- MCSE Private Cloud 2012 | *Rayancollege Institute* | *2015*  
+- SharePoint BI Services & Dashboard Design | *SharePoint Academy Iran* | *2015*  
+- Windows Server 2008, Server Administrator (MCITP) | *Cybertech* | *2013*  
 
 ---
 
@@ -109,5 +125,8 @@ Passionate about **solving complex problems** through **machine learning algorit
 🔗 **LinkedIn**: [linkedin.com/in/talebi](https://linkedin.com/in/talebi)  
 
 ---
+## Certifications 📜
 
-This Markdown file is structured to be clear and professional for your GitHub profile. You can create a new repository and upload this file as `README.md` to showcase your resume in a clean and structured way. Let me know if you need any modifications! 🚀
+- [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
+- [Google Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
+- [AWS Certified Data Analytics – Specialty](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
