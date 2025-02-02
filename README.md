@@ -79,7 +79,7 @@ Passionate about **solving complex problems** through **machine learning algorit
 
 ---
 
-## 📜 Certifications & Licenses
+## 📜 Certifications
 
 - [Data Engineering Essentials using SQL, Python, and PySpark](http://ude.my/UC-726ce6f7-aabb-4a8e-9b7b-6743a94259f4)  | *Udemy* | *2025*
 - [Azure Devops Crash Course -Build CI/CD release pipelines](https://www.udemy.com/certificate/UC-0f38e865-9b72-4183-908c-ed3465d3675d/)  | *Udemy* | *2025*
@@ -126,8 +126,3 @@ Passionate about **solving complex problems** through **machine learning algorit
 🔗 **LinkedIn**: [linkedin.com/in/talebi](https://linkedin.com/in/talebi)  
 
 ---
-## Certifications 📜
-
-- [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
-- [Google Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
-- [AWS Certified Data Analytics – Specialty](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
